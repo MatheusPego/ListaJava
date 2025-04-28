@@ -1,0 +1,12 @@
+public class exercicio1 {
+    public static void main(String[] args) {
+
+        //Atribuindo valores aleatórios:
+        int a = 9;
+        int b = 1;
+        int resultado = a + b;
+
+        //Realizando a soma entre A e B:
+        System.out.println("Exercício para receber dois números e mostrar a soma entre: " + a + " e " + b + ". Resultado: " + resultado);
+    }
+}
